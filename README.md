@@ -1,6 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="80%"/>
+  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="60%" alt="Moss typing at a computer"/>
+  <div id="badges">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo={linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </div>
 </div>
+
 
 <!--
 **tdep/tdep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
