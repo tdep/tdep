@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
     <a href="https://trevordepew.com">
-      <img src="https://img.shields.io/badge/TrevorDePew-portfolio-brightgreen&style=for-the-badge" alt="Website Badge"/>
+      <img src="https://img.shields.io/badge/TrevorDePew-portfolio-brightgreen?style=for-the-badge" alt="Website Badge"/>
     </a>
     </a>
   </div>
