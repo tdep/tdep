@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=tdep&style=flat-square&color=blue" alt="Profile view counter"/>
     <h1>
       Well, hi!
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NiOTZkOGI4ZTI0ODViOTNlZTJmYmQxY2Q2OWZhZTQ4ZjE4MmI5NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/hvRJCLFzcasrR4ia7z/giphy.gif width="30px"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NiOTZkOGI4ZTI0ODViOTNlZTJmYmQxY2Q2OWZhZTQ4ZjE4MmI5NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
 
