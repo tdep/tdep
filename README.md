@@ -20,7 +20,7 @@
 
 ---
 
-### :alien: About Me:
+### :bear: About Me:
 - :smiley_cat: I am a composer :musical_score: and woodworker :wood: turned full stack engineer :technologist:.
 - :octocat: I'm currently expanding my knowledge base and portfolio while actively looking for work.
 - :joy_cat: I really enjoy combining my music and art experience with my programming projects (check them out!)
@@ -46,6 +46,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   
 </div>
+  
+---
+  
+### :fire: :ocean: :wind_face: :earth_africa: My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tdep&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
     
 
