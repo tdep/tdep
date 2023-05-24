@@ -20,10 +20,10 @@
 ---
 
 ### :alien: About Me:
-    - :smiley_cat: I am a composer :musical_score: woodworker :wood: turned full stack engineer :technologist:.
-    - :octocat: I'm currently expanding my knowledge base and portfolio while actively looking for work.
-    - :joy_cat: I really enjoy combining my music and art experience with my programming projects (check them out!)
-    - :scream_cat: Fun fact: I can (poorly) unicycle!
+- :smiley_cat: I am a composer :musical_score: woodworker :wood: turned full stack engineer :technologist:.
+- :octocat: I'm currently expanding my knowledge base and portfolio while actively looking for work.
+- :joy_cat: I really enjoy combining my music and art experience with my programming projects (check them out!)
+- :scream_cat: Fun fact: I can (poorly) unicycle!
     
 ---
     
