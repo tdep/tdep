@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/sololearn-profile-blueviolet?style=for-the-badge" alt="Sololearn Badge"
     </a>
   </div>
-    <img src="https://kpmarev.com/ghpvc/?username=tdep&style=flat-square&color=blue" alt="Profile view counter"/>
+    <img src="https://komarev.com/ghpvc/?username=tdep&style=flat-square&color=blue" alt="Profile view counter"/>
 </div>
 
 
