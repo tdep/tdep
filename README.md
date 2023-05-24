@@ -1,7 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="60%" alt="Moss typing at a computer"/>
   <div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/trevor-depew/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://trevordepew.com">
+      <img src="https://img.shields.io/badge/TrevorDePew-portfolio-brightgreen" alt="Website Badge"/>
+    </a>
+    </a>
   </div>
 </div>
 
