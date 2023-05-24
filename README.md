@@ -10,8 +10,8 @@
     <a href="https://www.sololearn.com/profile/28597046">
       <img src="https://img.shields.io/badge/sololearn-profile-blueviolet?style=for-the-badge" alt="Sololearn Badge"
     </a>
-    </a>
   </div>
+    <img src="https://kpmarev.com/ghpvc/?username=tdep&style=flat-square&color=blue" alt="Profile view counter"/>
 </div>
 
 
