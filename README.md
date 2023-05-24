@@ -7,6 +7,9 @@
     <a href="https://trevordepew.com">
       <img src="https://img.shields.io/badge/TrevorDePew-portfolio-brightgreen?style=for-the-badge" alt="Website Badge"/>
     </a>
+    <a href="https://www.sololearn.com/profile/28597046">
+      <img src="https://img.shields.io/badge/sololearn-profile-blueviolet?style=for-the-badge" alt="Sololearn Badge"
+    </a>
     </a>
   </div>
 </div>
