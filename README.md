@@ -21,8 +21,8 @@
 ---
 
 ### :bear: About Me:
-- :smiley_cat: I am a composer :musical_score: and woodworker :wood: turned full stack engineer :technologist:.
-- :octocat: I'm currently expanding my knowledge base and portfolio while actively looking for work.
+- :smiley_cat: I am a full-stack engineer :technologist:, composer :musical_score: and woodworker :wood:.
+- :octocat: I have experience working on backend Enterprise applications and developing front-end web applications.
 - :joy_cat: I really enjoy combining my music and art experience with my programming projects (check them out!)
 - :scream_cat: Fun fact: I can (poorly) unicycle!
     
@@ -30,7 +30,12 @@
     
 ### :hammer_and_wrench: Languages and Tools:
 <div>
-  
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJIDEA" alt="IntelliJIDEA" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
