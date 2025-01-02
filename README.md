@@ -21,8 +21,8 @@
 ---
 
 ### :bear: About Me:
-- :smiley_cat: I am an IT profesisonal and backend engineer :technologist:, composer :musical_score: and woodworker :wood:.
-- :octocat: I have experience working on backend Enterprise applications and developing front-end web applications.
+- :smiley_cat: I am an IT profesisonal and software engineer :technologist:, composer :musical_score: and woodworker :wood:.
+- :octocat: I have experience working on backend enterprise applications and developing frontend web applications.
 - :joy_cat: I really enjoy combining my music and art experience with my programming projects (check them out!)
 - :scream_cat: Fun fact: I can (poorly) unicycle!
     
