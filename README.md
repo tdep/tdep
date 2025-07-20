@@ -21,7 +21,7 @@
 ---
 
 ### :bear: About Me:
-- :smiley_cat: I am a Software Engineer specializing in backend development and enjoy music composition :musical_score: and woodworking :wood: on side.
+- :smiley_cat: I am a Software Engineer :technologist: specializing in backend development and enjoy music composition :musical_score: and woodworking :wood: on side.
 - :octocat: I have experience working on backend enterprise applications and developing frontend web applications.
 - :joy_cat: I really enjoy combining my music and art experience with my programming projects (check them out!)
 - :scream_cat: Fun fact: I can (poorly) unicycle!
